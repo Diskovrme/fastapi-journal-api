@@ -2,17 +2,17 @@
 
 |
 
-.. image:: https://github.com/nsidnev/fastapi-realworld-example-app/workflows/API%20spec/badge.svg
-   :target: https://github.com/nsidnev/fastapi-realworld-example-app
+.. image:: https://github.com/Diskovrme/fastapi-journal-api/workflows/API%20spec/badge.svg
+   :target: https://github.com/Diskovrme/fastapi-journal-api
 
-.. image:: https://github.com/nsidnev/fastapi-realworld-example-app/workflows/Tests/badge.svg
-   :target: https://github.com/nsidnev/fastapi-realworld-example-app
+.. image:: https://github.com/Diskovrme/fastapi-journal-api/workflows/Tests/badge.svg
+   :target: https://github.com/Diskovrme/fastapi-journal-api
 
-.. image:: https://github.com/nsidnev/fastapi-realworld-example-app/workflows/Styles/badge.svg
-   :target: https://github.com/nsidnev/fastapi-realworld-example-app
+.. image:: https://github.com/Diskovrme/fastapi-journal-api/workflows/Styles/badge.svg
+   :target: https://github.com/Diskovrme/fastapi-journal-api
 
-.. image:: https://codecov.io/gh/nsidnev/fastapi-realworld-example-app/branch/master/graph/badge.svg
-   :target: https://codecov.io/gh/nsidnev/fastapi-realworld-example-app
+.. image:: https://github.com/Diskovrme/fastapi-journal-api/branch/master/graph/badge.svg
+   :target: https://github.com/Diskovrme/fastapi-journal-api
 
 .. image:: https://img.shields.io/github/license/Naereen/StrapDown.js.svg
    :target: https://github.com/nsidnev/fastapi-realworld-example-app/blob/master/LICENSE
@@ -41,7 +41,7 @@ First, run ``PostgreSQL``, set environment variables and create database. For ex
 
 Then run the following commands to bootstrap your environment with ``poetry``: ::
 
-    git clone https://github.com/thecodewall/pulsepost-api
+    git clone https://github.com/Diskovrme/fastapi-journal-api
     cd fastapi-realworld-example-app
     poetry install
     poetry shell
